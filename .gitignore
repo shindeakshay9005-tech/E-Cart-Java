@@ -1,0 +1,15 @@
+# Compiled Java output
+*.class
+out/
+bin/
+
+# VS Code and IDE files
+.vscode/
+.metals/
+.bloop/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
